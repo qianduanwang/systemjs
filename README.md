@@ -1,3 +1,5 @@
+git remote remove origin
+
 plugin-json
 ===========
 
